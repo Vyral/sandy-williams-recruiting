@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Miami Careers
 permalink: /join-our-team/
 ---
 
@@ -14,40 +14,66 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
+<p>Dear Real Estate Agent:</p>
 
-<p>Dear Real Estate Agent,</p>
+<p>I understand that you’ve been in the business for a short while and are hungry to do more, even if you’ve been kicked down a time or two. You understand the importance of technique, organization, scripts, business plans, and tools in order to get to the next level.</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>But I also understand that wherever you currently are in your career is not where you want to be. Perhaps you’re kept up at night because you’re not sure where your next paycheck is going to come from. Many independent agents in the industry don’t even have health insurance. That causes them to turn to brokerages, where they hope to be able to buy leads or even be handed leads for free.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>To make ends meet, you might be resorting to other, lesser-skilled jobs. When I lived an hour away from Tampa Airport, nearly 40% of our Uber drivers were also agents on the side. Newer agents have to be scrappy, but they often hang onto a dream that they don’t have the tools to make a reality quite yet. I’ve seen this put strain on personal relationships, and in some cases, it can end in divorce.</p>
+
+<p>And maybe those aren’t even your only barriers. I’m a licensed real estate instructor, and in the state of Florida alone, there are over 180,000 licensed agents; ours is the No. 2 state in the nation for the number of agents. Worse, 50% of them will fail in their first three years in the business, and <strong>87% of agents will fail in their first five years.</strong></p>
+
+<p>So: you have 180,000 fellow agents in the state and you work in a business with one of the highest failure rates of all—what are you going to do to make yourself stand out?
+<p>I have a solution to all these career pains, one that will leave you with the skills to practice real estate no matter where you are in the country.</p>
+
+<p>Everything is about the choices we make, so ask yourself if you want to grow your career and if you’re prepared to do the work necessary to get there. <strong>If you are, then consider joining my team.</strong></p>
+
+<p>Believe me, I understand your situation. I’ve had to reinvent myself twice. First, I moved from Indiana to Miami. The transition between markets was tough, but I became the No. 2 agent in South Florida (on both coasts), and I was ranked No. 66 among the top agents in the nation by the Wall Street Journal. Then, I moved to our current market, where I didn’t know anyone except my husband. Now in my second year, I’m on track for about $15 million in sales.</p>
+
+<p>If you join us, you’re doing more than just joining a team—you’re learning how to generate leads for yourself and getting the tools you need so that you’ll be able to do business wherever you go. And the great part of working with a cloud-based brokerage firm is that we can hook you up with people in your niche so you don’t have to reinvent the wheel.
+You’re getting the freedom to move. Real estate is one of the few businesses where, with the right training and resources, you’re able to pick up business anywhere. <strong>I can give you a future with our company that will enable you to:</strong>
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+Earn residual income so you don’t have to work forever
+Train from home
+Skip the franchise fees
+Attend mastermind sessions
+Own stock when you close or cap in the industry (eXp is traded on NASDAQ)
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>On our team, we recognize the power of the internet, and so we specialize in getting tons of internet leads. I’ve helped agents increase their business by 10% through internet marketing. But we don’t just hand you leads; we’ll teach you the skills and give you the tools you’ll need to be able to generate your own. After all, if you teach an agent to fish, they’ll feed themselves forever.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>Before you even join, we’ll give you a checklist of ways to get ready before transitioning to our area. After that, I’ll set you up with an onboarding concierge and a personal assistant to help you integrate into our brokerage within a week. You’ll get the chance to shadow a team member as they navigate showings and learn sales etiquette in a hands-on way, including by studying scripts for how to answer the phone and interact with clients.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p><strong>Once you’ve gone through the onboarding process, you’ll get free access to:</strong>
+<ul class="indent">
+Both one-on-one and group coaching
+Script partners
+At least four or five leads to get you started
+Internet marketing
+Continuing education courses in the cloud
+</ul></p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>If you’re not happy within your first 90 days with</p> us, I’ll pay you back your sign-on fee.
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>As I said, everything is about the choices we make. I’ll be fine, whatever your decision. You can always go back to work where you were before. You could do nothing and stay in the same positio</p>n. Or, you could join our team and learn how to support yourself wherever you are.
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>By now, you might have some questions for me. Here are my answers to a couple of the most frequently asked questions we receive from new recruits:</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>What will my commission be</p>?
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>We’ll give you an 80/20 split, and yo</p>u stop paying the broker after you’ve paid $16,000.
 
-<p>Let’s help you grow your business.</p>
+<p>Will I get stock after my first clos</p>ing?
 
-<p>{{site.data.settings.client.name}}</p>
+<p>Yes! The amount of shares you’ll get is based o</p>n the number of agents we have at eXp.
+
+<p>Again—the choice is yours. If you’re looking to</p> advance your career, reach out to us. You have nothing to lose and everything to gain.
+
+<p>I hope to hear from you soon,</p>
+
+<p>Sandy Williams</p>
+
 
 
 
