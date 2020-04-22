@@ -52,13 +52,9 @@ We’ll give you an 80/20 split, and you stop paying the broker after you’ve p
 
 Will I get stock after my first closing?
 
-Yes\! The amount of shares you’ll get is based o
+Yes\! The amount of shares you’ll get is based on the number of agents we have at eXp.
 
-n the number of agents we have at eXp.
-
-Again—the choice is yours. If you’re looking to
-
-advance your career, reach out to us. You have nothing to lose and everything to gain.
+Again—the choice is yours. If you’re looking to advance your career, reach out to us. You have nothing to lose and everything to gain.
 
 I hope to hear from you soon,
 
