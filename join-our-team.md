@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Miami Careers
+title: Sarasota Careers
 permalink: /join-our-team/
 ---
 
@@ -8,7 +8,7 @@ permalink: /join-our-team/
 
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 
-Dear Real Estate Agent:
+How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?
 
 I understand that you’ve been in the business for a short while and are hungry to do more, even if you’ve been kicked down a time or two. You understand the importance of technique, organization, scripts, business plans, and tools in order to get to the next level.
 
